@@ -11,12 +11,11 @@ export default {
 </script>
 
 <template>
-  <div>
+  <div class="main-container">
     <AppTitle></AppTitle> 
     <Apphero></Apphero>
   </div>
 </template>
 
 <style>
-
 </style>
