@@ -6,6 +6,6 @@
 
 <template>
     <div class="container">
-        <h1>La mia prima app con Vite!</h1>
+        <h1 class="display-1">La mia prima app con Vite!</h1>
     </div>
 </template>
