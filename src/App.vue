@@ -11,7 +11,7 @@ export default {
 </script>
 
 <template>
-  <div class="container-fluid">
+  <div>
     <AppTitle></AppTitle> 
     <Apphero></Apphero>
   </div>
