@@ -11,7 +11,7 @@
     </div>
 </template>
 
-<style>
+<style scoped>
     .jumbo-box{
         background-image: url(../assets/bg-banner-hero.jpg);
         background-size: cover;
